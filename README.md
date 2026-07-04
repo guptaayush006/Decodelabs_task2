@@ -1,60 +1,36 @@
-# � Decode Labs Task 2
+# Decode Labs Task 2
 
-## Python Programming Task
+## Expense Tracker
 
-### 📌 Overview
-This repository contains Task 2 of the Decode Labs Python Programmer Internship.
+This repository contains Task 2 for the Decode Labs Python Programmer Internship. It implements a simple command-line expense tracker that takes expense inputs from the user, stores them, and displays the total and average expense.
 
-At the moment, the project file is still a starter template, and the implementation for this task is pending. The repository is set up for you to add and run the task code here.
+## Features
+- Accepts the number of expenses to enter
+- Stores each expense value
+- Displays all entered expenses
+- Calculates and prints the total and average expense
 
----
-
-## 🚀 Current Status
-- The main file is [task2.py](task2.py)
-- The file is currently empty and needs the task logic to be added
-- This README has been corrected to reflect the actual project state
-
----
-
-## 🛠️ Technologies Used
-- Python 3
-
----
-
-## 📂 Project Structure
-
+## Project Structure
 ```text
-decodelabs_task2/
+Decodelabs_task2/
 ├── task2.py
 └── README.md
 ```
 
----
-
-## ▶️ How to Run
-
-1. Clone this repository:
-
+## How to Run
+1. Clone the repository:
 ```bash
 git clone https://github.com/guptaayush006/Decodelabs_task2.git
 ```
-
 2. Navigate to the project folder:
-
 ```bash
 cd Decodelabs_task2
 ```
-
-3. Run the Python file once the task code is added:
-
+3. Run the Python script:
 ```bash
 python task2.py
 ```
 
----
-
-## 👩‍💻 Author
-
-**Ayush Gupta**
-
-Python Programmer Intern at **Decode Labs**
+## Author
+Ayush Gupta
+Python Programmer Intern at Decode Labs
