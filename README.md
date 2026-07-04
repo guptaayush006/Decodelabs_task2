@@ -1,19 +1,18 @@
-# 📝 To-Do List Application
+# � Decode Labs Task 2
 
-## Decode Labs Python Programmer Internship - Task 2
+## Python Programming Task
 
 ### 📌 Overview
-This repository contains Task 2 of my Decode Labs Python Programmer Internship.
+This repository contains Task 2 of the Decode Labs Python Programmer Internship.
 
-This project is a simple Python-based to-do list application that helps users manage a list of tasks through a basic command-line interface.
+At the moment, the project file is still a starter template, and the implementation for this task is pending. The repository is set up for you to add and run the task code here.
 
 ---
 
-## 🚀 Features
-- Add tasks
-- View tasks
-- Simple menu-driven interface
-- Beginner-friendly Python implementation
+## 🚀 Current Status
+- The main file is [task2.py](task2.py)
+- The file is currently empty and needs the task logic to be added
+- This README has been corrected to reflect the actual project state
 
 ---
 
@@ -46,7 +45,7 @@ git clone https://github.com/guptaayush006/Decodelabs_task2.git
 cd Decodelabs_task2
 ```
 
-3. Run the program:
+3. Run the Python file once the task code is added:
 
 ```bash
 python task2.py
